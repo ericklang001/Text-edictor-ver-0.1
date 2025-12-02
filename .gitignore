@@ -1,0 +1,24 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+ENV/
+
+# Byte-compiled / optimized
+*.so
+*.dll
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Resource files? (谨慎！)
+# 如果 resource_/ 包含大量二进制/生成文件（如图片、音视频），且不需版本控制：
+# resource_/
+# 否则（如含关键配置/小素材），保留它并提交
